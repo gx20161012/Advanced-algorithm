@@ -1,0 +1,2 @@
+def k(num, nums):
+    
